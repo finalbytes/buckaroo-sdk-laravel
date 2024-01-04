@@ -3,7 +3,6 @@
     "description": "Laravel wrapper for Buckaroo SDK",
     "type": "package",
     "keywords": ["laravel", "buckaroo", "api", "php"],
-    "version": "0.0.1",
     "require": {
         "php": "^8.2",
         "buckaroo/sdk": "dev-master"
