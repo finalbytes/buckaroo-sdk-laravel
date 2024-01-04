@@ -32,7 +32,7 @@ Update .env file with your credentials:
 For publishing the config file:
 
 ``` bash
-php artisan vendor:publish --provider="FinalBytes\Buckaroo\BuckarooServiceProvider"
+php artisan vendor:publish --provider="Finalbytes\Buckaroo\BuckarooServiceProvider"
 ```
 
 # Examples
