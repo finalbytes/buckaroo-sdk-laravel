@@ -4,8 +4,8 @@
     "type": "package",
     "keywords": ["laravel", "buckaroo", "api", "php"],
     "require": {
-        "php": "^8.2",
-        "buckaroo/sdk": "dev-master"
+        "php": "^8.1",
+        "buckaroo/sdk": "^1.10.0"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0 || ^5.0 || ^6.0",
