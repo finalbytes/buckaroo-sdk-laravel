@@ -60,7 +60,7 @@ composer test
 - [Kevin Kerstjens][link-author]
 
 ## License
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 
 [ico-php-version]: https://img.shields.io/packagist/dependency-v/finalbytes/buckaroo-sdk-laravel/php.svg?style=flat-square
