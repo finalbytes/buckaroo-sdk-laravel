@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8defc67eedfd4a5eaf0b903ef7282b96",
+    "content-hash": "a388cc59b39db405ef13d2934ba029f3",
     "packages": [
         {
             "name": "brick/math",
@@ -3025,12 +3025,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/testbench-core.git",
-                "reference": "e2b77b2b0b64e4b042de3a06fad77443f34004ef"
+                "reference": "75e1cea158d2ff5c9a8e5a1b962fd9501eba8d81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/testbench-core/zipball/e2b77b2b0b64e4b042de3a06fad77443f34004ef",
-                "reference": "e2b77b2b0b64e4b042de3a06fad77443f34004ef",
+                "url": "https://api.github.com/repos/orchestral/testbench-core/zipball/75e1cea158d2ff5c9a8e5a1b962fd9501eba8d81",
+                "reference": "75e1cea158d2ff5c9a8e5a1b962fd9501eba8d81",
                 "shasum": ""
             },
             "require": {
@@ -3104,7 +3104,7 @@
                 "issues": "https://github.com/orchestral/testbench/issues",
                 "source": "https://github.com/orchestral/testbench-core"
             },
-            "time": "2024-01-03T02:48:34+00:00"
+            "time": "2024-01-04T08:33:02+00:00"
         },
         {
             "name": "overtrue/phplint",
@@ -3382,12 +3382,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "2a7b1cf0b2e80b95ae31e7aea4ce23ab4bbe8707"
+                "reference": "666b99e4e65941fa75bc733dc299f457c0a49d72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/2a7b1cf0b2e80b95ae31e7aea4ce23ab4bbe8707",
-                "reference": "2a7b1cf0b2e80b95ae31e7aea4ce23ab4bbe8707",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/666b99e4e65941fa75bc733dc299f457c0a49d72",
+                "reference": "666b99e4e65941fa75bc733dc299f457c0a49d72",
                 "shasum": ""
             },
             "require": {
@@ -3437,7 +3437,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-01-03T13:31:58+00:00"
+            "time": "2024-01-03T18:45:12+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -5357,12 +5357,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "da51554b7cc9c780bcbef54d002b43a496104097"
+                "reference": "269098eb11928792720a5a488e3f46d9b26655c5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/da51554b7cc9c780bcbef54d002b43a496104097",
-                "reference": "da51554b7cc9c780bcbef54d002b43a496104097",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/269098eb11928792720a5a488e3f46d9b26655c5",
+                "reference": "269098eb11928792720a5a488e3f46d9b26655c5",
                 "shasum": ""
             },
             "require": {
@@ -5430,7 +5430,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2024-01-03T04:41:10+00:00"
+            "time": "2024-01-04T08:40:08+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",

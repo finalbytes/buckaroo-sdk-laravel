@@ -26,6 +26,6 @@ class TestCase extends Orchestra
     {
         $app['config']->set('buckaroo.website_key', 'test');
         $app['config']->set('buckaroo.secret_key', 'test');
-        $app['config']->set('buckaroo.test', true);
+        $app['config']->set('buckaroo.test', 'true');
     }
 }
