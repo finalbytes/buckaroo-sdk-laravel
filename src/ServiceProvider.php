@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Finalbytes\LaravelBuckaroo;
+namespace Finalbytes\Buckaroo;
 
 use Buckaroo\BuckarooClient;
 

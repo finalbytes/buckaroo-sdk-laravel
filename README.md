@@ -38,7 +38,7 @@ php artisan vendor:publish --provider="Finalbytes\Buckaroo\BuckarooServiceProvid
 # Examples
 
 ``` php
-use FinalBytes\Buckaroo\Buckaroo;
+use Finalbytes\Buckaroo\Buckaroo;
 
 $issuers = Buckaroo::getIssuers('ideal')->issuers();
 dd($issuers);

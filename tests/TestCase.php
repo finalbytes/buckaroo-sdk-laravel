@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Finalbytes\LaravelBuckaroo\Tests;
+namespace Finalbytes\Buckaroo\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 
@@ -11,14 +11,14 @@ class TestCase extends Orchestra
     protected function getPackageProviders($app): array
     {
         return [
-            \Finalbytes\LaravelBuckaroo\ServiceProvider::class,
+            \Finalbytes\Buckaroo\ServiceProvider::class,
         ];
     }
 
     protected function getPackageAliases($app): array
     {
         return [
-            'Buckaroo' => \Finalbytes\LaravelBuckaroo\Facades\Buckaroo::class,
+            'Buckaroo' => \Finalbytes\Buckaroo\Facades\Buckaroo::class,
         ];
     }
 

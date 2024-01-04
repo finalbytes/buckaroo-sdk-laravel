@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Finalbytes\LaravelBuckaroo\Facades;
+namespace Finalbytes\Buckaroo\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

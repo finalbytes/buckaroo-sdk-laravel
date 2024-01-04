@@ -20,22 +20,22 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Finalbytes\\LaravelBuckaroo\\ServiceProvider"
+                "Finalbytes\\Buckaroo\\ServiceProvider"
             ],
             "aliases": {
-                "Buckaroo": "Finalbytes\\LaravelBuckaroo\\Facades\\Buckaroo"
+                "Buckaroo": "Finalbytes\\Buckaroo\\Facades\\Buckaroo"
             }
         }
     },
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Finalbytes\\LaravelBuckaroo\\": "src/"
+            "Finalbytes\\Buckaroo\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Finalbytes\\LaravelBuckaroo\\Tests\\": "tests/"
+            "Finalbytes\\Buckaroo\\Tests\\": "tests/"
         }
     },
     "authors": [
