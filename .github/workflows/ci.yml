@@ -1,6 +1,12 @@
 name: 'Continuous Integration (CI)'
 on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "src/**.php"
+      - "tests/**.php"
   pull_request:
+    branches: [ "main" ]
     paths:
       - "src/**.php"
       - "tests/**.php"
