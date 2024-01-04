@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Finalbytes\LaravelBuckaroo\Tests;
+namespace Finalbytes\Buckaroo\Tests;
 
 use Buckaroo\BuckarooClient;
 use Buckaroo\PaymentMethods\PaymentFacade;
