@@ -44,7 +44,6 @@ $issuers = Buckaroo::getIssuers('ideal')->issuers();
 dd($issuers);
 ```
 
-
 ## Testing
 
 Running the tests with:
@@ -53,22 +52,23 @@ Running the tests with:
 composer test
 ``` 
 
+## Getting help
 
+If you have bug reports, questions or suggestions please [create a new issue](https://github.com/finalbytes/buckaroo-sdk-laravel/issues/new/choose)..
 
 ## Credits
 
-- [Kevin Kerstjens][link-author]
+- [Final Bytes - Kevin Kerstjens][link-author]
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
-
-[ico-php-version]: https://img.shields.io/packagist/dependency-v/finalbytes/buckaroo-sdk-laravel/php.svg?style=flat-square
-[ico-version]: https://img.shields.io/packagist/v/finalbytes/buckaroo-sdk-laravel.svg?style=flat-square
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-tests]: https://github.com/finalbytes/buckaroo-sdk-laravel/actions/workflows/tests.yml/badge.svg
 [ico-downloads]: https://img.shields.io/packagist/dt/finalbytes/buckaroo-sdk-laravel.svg?style=flat-square
-[link-author]: https://github.com/avido
-[link-packagist]: https://packagist.org/packages/finalbytes/buckaroo-sdk-laravel
-[link-tests]: https://github.com/finalbytes/buckaroo-sdk-laravel/actions/workflows/tests.yml?query=workflow%3Atests
+[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[ico-php-version]: https://img.shields.io/packagist/dependency-v/finalbytes/buckaroo-sdk-laravel/php.svg?style=flat-square
+[ico-tests]: https://github.com/finalbytes/buckaroo-sdk-laravel/actions/workflows/tests.yml/badge.svg
+[ico-version]: https://img.shields.io/packagist/v/finalbytes/buckaroo-sdk-laravel.svg?style=flat-square
+[link-author]: https://github.com/finalbytes
 [link-downloads]: https://packagist.org/packages/finalbytes/buckaroo-sdk-laravel
+[link-packagist]: https://packagist.org/packages/finalbytes/buckaroo-sdk-laravel
+[link-tests]: https://github.com/finalbytes/buckaroo-sdk-laravel/actions/workflows/tests.yml
