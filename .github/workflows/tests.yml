@@ -13,7 +13,7 @@ jobs:
         php: [8.3, 8.2, 8.1]
         dependency-version: [ prefer-stable ]
 
-    name: PHP ${{ matrix.php }} - ${{ matrix.dependency-version } - ${{ matrix.os }}
+    name: PHP ${{ matrix.php }} - ${{ matrix.dependency-version }} - ${{ matrix.os }}
 
     steps:
       - name: Checkout code
